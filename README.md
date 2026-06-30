@@ -2,6 +2,8 @@
 
 A console-based Number Guessing Game built in Java to strengthen core programming concepts through a practical project.
 
+> 📌 This project demonstrates object-oriented programming, modular code design, input validation, exception handling, and basic game logic.
+
 ---
 
 ## 📖 About
@@ -27,7 +29,7 @@ This project was developed while learning Java fundamentals with the goal of app
 
 - Java
 - Object-Oriented Programming (OOP)
-- Java Collections
+- Java Collections Framework
 - Exception Handling
 - Random Class
 - Scanner Class
@@ -36,7 +38,6 @@ This project was developed while learning Java fundamentals with the goal of app
 
 ## 📂 Project Structure
 
-```
 ```text
 java-number-guessing-game
 │
@@ -48,10 +49,13 @@ java-number-guessing-game
 ├── LICENSE
 └── .gitignore
 ```
-```
+
+---
+
 ## 📷 Project Preview
 
 ![Number Guessing Game](images/game-demo.png)
+
 ---
 
 ## 🚀 How to Run
@@ -65,10 +69,11 @@ java-number-guessing-game
 
 ## 📚 Learning Outcomes
 
-Through this project I strengthened my understanding of:
+Through this project, I strengthened my understanding of:
 
 - Java fundamentals
 - Methods and modular programming
+- Object-oriented programming principles
 - Input validation
 - Exception handling
 - Program flow control
@@ -80,7 +85,8 @@ Through this project I strengthened my understanding of:
 
 - Difficulty selection menu enhancements
 - Timer-based gameplay
-- Leaderboard with file storage
+- Save game statistics using file handling
+- Leaderboard system
 - GUI version using Java Swing or JavaFX
 
 ---
@@ -88,5 +94,7 @@ Through this project I strengthened my understanding of:
 ## 👨‍💻 Author
 
 **Sudarshan More**
+
+Final Year Computer Science & Engineering Student
 
 If you have any suggestions or feedback, feel free to connect with me on LinkedIn.
