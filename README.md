@@ -37,15 +37,21 @@ This project was developed while learning Java fundamentals with the goal of app
 ## 📂 Project Structure
 
 ```
+```text
 java-number-guessing-game
 │
+├── images
+│   └── game-demo.png
 ├── src
 │   └── NumberGuessing.java
 ├── README.md
 ├── LICENSE
 └── .gitignore
 ```
+```
+## 📷 Project Preview
 
+![Number Guessing Game](images/game-demo.png)
 ---
 
 ## 🚀 How to Run
